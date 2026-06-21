@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+I'm currently studying at university for a bachelor's degree in physics, 
+learning Python and basically just collecting knowledge that I like. 
+Maybe I can apply it somewhere 🤔
 <!--
 **outlander-web/outlander-web** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
